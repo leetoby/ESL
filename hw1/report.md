@@ -25,7 +25,7 @@ Problems:
 -   Note that we cannot do convolution in the first two rows. Therefore, we need
     to wait the first two rows and begin to do convolution.
 
-| Before blur                                                                                        | After blur                                                                                         |
-|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| ![一張含有 女性, 服飾, 髮, 個人 的圖片 自動產生的描述](media/d872d38bd03a9fc64cd538af771a7526.png) | ![](media/dff1acffe1d3b0bb749d3476a11e7dc5.png)                                                    |
-| ![一張含有 女性, 服飾, 髮, 個人 的圖片 自動產生的描述](media/d872d38bd03a9fc64cd538af771a7526.png) | ![一張含有 服飾, 女性, 髮, 靠近 的圖片 自動產生的描述](media/dff1acffe1d3b0bb749d3476a11e7dc5.png) |
+| Before blur                                                                                        | After blur                                      |
+|----------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| ![一張含有 女性, 服飾, 髮, 個人 的圖片 自動產生的描述](media/d872d38bd03a9fc64cd538af771a7526.png) | ![](media/dff1acffe1d3b0bb749d3476a11e7dc5.png) |
+| ![](media/72494dd719e30f58e1a036a9b57d7b20.png)                                                    | ![](media/c8aa6b1be2bf4ef1847db5a01494b172.png) |
