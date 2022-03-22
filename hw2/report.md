@@ -5,7 +5,7 @@ Homework 2
 Name: LEE YU-CHOU ID: 107061144
 
 -   Repository URL:
-    [https://github.com/leetoby/ESL/tree/main/hw](https://github.com/leetoby/ESL/tree/main/hw2)
+    [https://github.com/leetoby/ESL/tree/main/hw2](https://github.com/leetoby/ESL/tree/main/hw2)
 
 Problems: Gaussian Blur with a TLM-2.0 interconnect
 
