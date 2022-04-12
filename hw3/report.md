@@ -10,7 +10,7 @@ Name: LEE YU-CHOU	ID: 107061144
 The areas and run time of different versions of synthesized circuits are shown below:
 
 
-|**BASIC**|
+||**BASIC**||
 | :-: | :-: | :-: |
 ||Area|Run Time|
 |NORMAL|963.8|43909110 ns|
@@ -19,7 +19,7 @@ The areas and run time of different versions of synthesized circuits are shown b
 |UNROLLING (NUM=9)|1528.1|43253750 ns|
 
 
-|**DPA**|
+||**DPA**||
 | :-: | :-: | :-: |
 ||Area|Run Time|
 |NORMAL|926.1|43909110 ns|
