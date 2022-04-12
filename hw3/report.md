@@ -11,7 +11,6 @@ The areas and run time of different versions of synthesized circuits are shown b
 
 
 |**BASIC**|
-| :-: |
 ||Area|Run Time|
 |NORMAL|963.8|43909110 ns|
 |PIPELINE (II=1)|632.7|20316150 ns|
@@ -20,7 +19,6 @@ The areas and run time of different versions of synthesized circuits are shown b
 
 
 |**DPA**|
-| :-: |
 ||Area|Run Time|
 |NORMAL|926.1|43909110 ns|
 |PIPELINE (II=1)|625.2|20316150 ns|
