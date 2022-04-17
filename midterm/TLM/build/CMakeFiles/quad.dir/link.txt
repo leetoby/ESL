@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -Wall -D CLOCK_PERIOD=1.0  -rdynamic CMakeFiles/quad.dir/Initiator.cpp.o CMakeFiles/quad.dir/Quad.cpp.o CMakeFiles/quad.dir/Testbench.cpp.o CMakeFiles/quad.dir/main.cpp.o  -o quad  -Wl,-rpath,/opt/systemc/lib /opt/systemc/lib/libsystemc.so.2.3.3 -pthread 
